@@ -23,3 +23,6 @@ CMakeCache.txt
 *.log
 *.tlog
 build
+release/
+.project
+.cproject
